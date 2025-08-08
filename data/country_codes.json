@@ -1,0 +1,12 @@
+[
+  { "code": "+55", "country": "BR", "flag": "🇧🇷", "label": "Brasil" },
+  { "code": "+1",  "country": "US", "flag": "🇺🇸", "label": "Estados Unidos" },
+  { "code": "+54", "country": "AR", "flag": "🇦🇷", "label": "Argentina" },
+  { "code": "+56", "country": "CL", "flag": "🇨🇱", "label": "Chile" },
+  { "code": "+57", "country": "CO", "flag": "🇨🇴", "label": "Colômbia" },
+  { "code": "+51", "country": "PE", "flag": "🇵🇪", "label": "Peru" },
+  { "code": "+598", "country": "UY", "flag": "🇺🇾", "label": "Uruguai" },
+  { "code": "+595", "country": "PY", "flag": "🇵🇾", "label": "Paraguai" },
+  { "code": "+593", "country": "EC", "flag": "🇪🇨", "label": "Equador" },
+  { "code": "+591", "country": "BO", "flag": "🇧🇴", "label": "Bolívia" }
+]
