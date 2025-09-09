@@ -1,1 +1,12 @@
-
+[
+  { "key": "wifi", "asset": "assets/icons/wifi.svg" },
+  { "key": "accessibility", "asset": "assets/icons/accessibility.svg" },
+  { "key": "garage", "asset": "assets/icons/garage.svg" },
+  { "key": "event_space", "asset": "assets/icons/event_space.svg" },
+  { "key": "pool", "asset": "assets/icons/pool.svg" },
+  { "key": "gym", "asset": "assets/icons/gym.svg" },
+  { "key": "air_conditioning", "asset": "assets/icons/air_conditioning.svg" },
+  { "key": "pet_friendly", "asset": "assets/icons/pet_friendly.svg" },
+  { "key": "breakfast", "asset": "assets/icons/breakfast.svg" },
+  { "key": "parking", "asset": "assets/icons/parking.svg" }
+]
