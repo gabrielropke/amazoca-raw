@@ -8,5 +8,6 @@
   { "key": "air_conditioning", "asset": "air_conditioning.svg" },
   { "key": "pet_friendly", "asset": "pet_friendly.svg" },
   { "key": "breakfast", "asset": "breakfast.svg" },
-  { "key": "parking", "asset": "parking.svg" }
+  { "key": "parking", "asset": "parking.svg" },
+  { "key": "solar_bed", "asset": "solar_bed.svg"}
 ]
