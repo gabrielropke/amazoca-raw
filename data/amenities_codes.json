@@ -9,5 +9,5 @@
   { "key": "pet_friendly", "asset": "pet_friendly.svg" },
   { "key": "breakfast", "asset": "breakfast.svg" },
   { "key": "parking", "asset": "parking.svg" },
-  { "key": "solar_bed", "asset": "solar_bed.svg"}
+  { "key": "bed", "asset": "bed.svg"}
 ]
