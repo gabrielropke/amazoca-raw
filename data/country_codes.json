@@ -1,12 +1,82 @@
 [
-  { "code": "+55", "country": "BR", "flag": "🇧🇷", "label": "Brasil" },
-  { "code": "+1",  "country": "US", "flag": "🇺🇸", "label": "Estados Unidos" },
-  { "code": "+54", "country": "AR", "flag": "🇦🇷", "label": "Argentina" },
-  { "code": "+56", "country": "CL", "flag": "🇨🇱", "label": "Chile" },
-  { "code": "+57", "country": "CO", "flag": "🇨🇴", "label": "Colômbia" },
-  { "code": "+51", "country": "PE", "flag": "🇵🇪", "label": "Peru" },
-  { "code": "+598", "country": "UY", "flag": "🇺🇾", "label": "Uruguai" },
-  { "code": "+595", "country": "PY", "flag": "🇵🇾", "label": "Paraguai" },
-  { "code": "+593", "country": "EC", "flag": "🇪🇨", "label": "Equador" },
-  { "code": "+591", "country": "BO", "flag": "🇧🇴", "label": "Bolívia" }
+  {
+    "code": "+55",
+    "country": "BR",
+    "iconPath": "/icons/flags/br.svg",
+    "label": "Brasil",
+    "phoneMask": "(##) #####-####",
+    "phoneMaxLength": 11
+  },
+  {
+    "code": "+1",
+    "country": "US",
+    "iconPath": "/icons/flags/us.svg",
+    "label": "Estados Unidos",
+    "phoneMask": "(###) ###-####",
+    "phoneMaxLength": 10
+  },
+  {
+    "code": "+54",
+    "country": "AR",
+    "iconPath": "/icons/flags/ar.svg",
+    "label": "Argentina",
+    "phoneMask": "# ## ####-####",
+    "phoneMaxLength": 11
+  },
+  {
+    "code": "+56",
+    "country": "CL",
+    "iconPath": "/icons/flags/cl.svg",
+    "label": "Chile",
+    "phoneMask": "# ####-####",
+    "phoneMaxLength": 9
+  },
+  {
+    "code": "+57",
+    "country": "CO",
+    "iconPath": "/icons/flags/co.svg",
+    "label": "Colômbia",
+    "phoneMask": "### ###-####",
+    "phoneMaxLength": 10
+  },
+  {
+    "code": "+51",
+    "country": "PE",
+    "iconPath": "/icons/flags/pe.svg",
+    "label": "Peru",
+    "phoneMask": "### ###-###",
+    "phoneMaxLength": 9
+  },
+  {
+    "code": "+598",
+    "country": "UY",
+    "iconPath": "/icons/flags/uy.svg",
+    "label": "Uruguai",
+    "phoneMask": "#### ####",
+    "phoneMaxLength": 8
+  },
+  {
+    "code": "+595",
+    "country": "PY",
+    "iconPath": "/icons/flags/py.svg",
+    "label": "Paraguai",
+    "phoneMask": "### ###-###",
+    "phoneMaxLength": 9
+  },
+  {
+    "code": "+593",
+    "country": "EC",
+    "iconPath": "/icons/flags/ec.svg",
+    "label": "Equador",
+    "phoneMask": "### ###-####",
+    "phoneMaxLength": 10
+  },
+  {
+    "code": "+591",
+    "country": "BO",
+    "iconPath": "/icons/flags/bo.svg",
+    "label": "Bolívia",
+    "phoneMask": "#### ####",
+    "phoneMaxLength": 8
+  }
 ]
