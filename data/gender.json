@@ -1,0 +1,6 @@
+[
+  { "code": "M",  "key": "male", "label": "Masculino" },
+  { "code": "F",  "key": "female", "label": "Feminino" },
+  { "code": "O",  "key": "other", "label": "Outro" },
+  { "code": "P",  "key": "prefer_not", "label": "Prefiro não informar" }
+]
